@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Ask me about | Full-Stack Developer | Programmer |<br><br>📫 How to reach me: https://arjungprabhu.info/<br><br>⚡ Fun fact: Why do programmers prefer dark mode?<br>                        Because the light attracts bugs!😎
+💬 Ask me about | Full-Stack Developer | Programmer |<br><br>📫 How to reach me: https://arjungprabhu.netlify.app/<br><br>⚡ Fun fact: Why do programmers prefer dark mode?<br>                        Because the light attracts bugs!😎
 
 
 ## 🌐 Socials:
